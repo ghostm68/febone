@@ -12,7 +12,7 @@
 
 <channel>
 	<title>Inkrealm</title>
-	<atom:link href="/path/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/path/</link>
 	<description>writer - musician - visual artist </description>
 	<lastBuildDate>Tue, 24 Jan 2023 03:44:08 +0000</lastBuildDate>
@@ -24,38 +24,38 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>/path/wp-content/uploads/2022/01/inky-50x50.gif</url>
+	<url>/wp-content/uploads/2022/01/inky-50x50.gif</url>
 	<title>Inkrealm</title>
-	<link>/path/</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">212591659</site>	<item>
 		<title>newsroom headline argument 24 January 2023</title>
-		<link>/path/2023/01/24/newsroom-headline-argument-24-january-2023/</link>
+		<link>/2023/01/24/newsroom-headline-argument-24-january-2023/</link>
 					<comments>/path/2023/01/24/newsroom-headline-argument-24-january-2023/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 24 Jan 2023 03:44:08 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<category><![CDATA[#nocomment]]></category>
-		<guid isPermaLink="false">/path/?p=644</guid>
+		<guid isPermaLink="false">?p=644</guid>
 
 					<description><![CDATA[]]></description>
 		
-					<wfw:commentRss>/path/2023/01/24/newsroom-headline-argument-24-january-2023/feed/</wfw:commentRss>
+					<wfw:commentRss>/2023/01/24/newsroom-headline-argument-24-january-2023/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">644</post-id>	</item>
 		<item>
 		<title>70 gabs 71 prefade 72 circle 73 present theory</title>
-		<link>/path/2023/01/13/70-gabs-71-prefade-72-circle-73-present-theory/</link>
+		<link>/2023/01/13/70-gabs-71-prefade-72-circle-73-present-theory/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 13 Jan 2023 23:10:26 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/path/?p=637</guid>
+		<guid isPermaLink="false">/?p=637</guid>
 
 					<description><![CDATA[]]></description>
 		
@@ -64,12 +64,12 @@
 		<post-id xmlns="com-wordpress:feed-additions:1">637</post-id>	</item>
 		<item>
 		<title>Friday The Thirteenth Anti(jinx)Dote</title>
-		<link>/path/2023/01/13/friday-the-thirteenth-antijinxdote/</link>
+		<link>/2023/01/13/friday-the-thirteenth-antijinxdote/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 13 Jan 2023 22:44:26 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/path/?p=634</guid>
+		<guid isPermaLink="false">/?p=634</guid>
 
 					<description><![CDATA[Jack You&#8217;re not safe on your own. Inky You think she&#8217;s..? Jack Is she Keyser Soze I don&#8217;t know, Inky. It seems<p class="link-more"><a class="myButt " href="/path/2023/01/13/friday-the-thirteenth-antijinxdote/">Read More</a></p>]]></description>
 		

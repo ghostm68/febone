@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>#vaporwave #z #retro #newmediaart #inkrealm #print &#8211; Inkrealm</title>
+	<atom:link href="/path/tag/vaporwave-z-retro-newmediaart-inkrealm-print/feed/" rel="self" type="application/rss+xml" />
+	<link>/path/</link>
+	<description>writer - musician - visual artist </description>
+	<lastBuildDate>Sun, 27 Feb 2022 18:26:46 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/path/wp-content/uploads/2022/01/inky-50x50.gif</url>
+	<title>#vaporwave #z #retro #newmediaart #inkrealm #print &#8211; Inkrealm</title>
+	<link>/path/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">212591659</site>	<item>
+		<title>tcb</title>
+		<link>/path/2022/02/27/tcb/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 27 Feb 2022 14:39:29 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[#vaporwave #z #retro #newmediaart #inkrealm #print]]></category>
+		<guid isPermaLink="false">/path/?p=165</guid>
+
+					<description><![CDATA[found a format that might resolve our link situation&#8230;although presently only set for desktop view&#8230; https://www.wordstar.gq/ and while i&#8217;m here i am<p class="link-more"><a class="myButt " href="/path/2022/02/27/tcb/">Read More</a></p>]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">165</post-id>	</item>
+		<item>
+		<title>operation z media</title>
+		<link>/path/2022/02/26/operation-z-media/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 26 Feb 2022 14:31:58 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[#vaporwave #z #retro #newmediaart #inkrealm #print]]></category>
+		<guid isPermaLink="false">/path/?p=162</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">162</post-id>	</item>
+	</channel>
+</rss>

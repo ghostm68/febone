@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>head shots &#8211; Inkrealm</title>
+	<atom:link href="/path/tag/head-shots/feed/" rel="self" type="application/rss+xml" />
+	<link>/path/</link>
+	<description>writer - musician - visual artist </description>
+	<lastBuildDate>Sun, 17 Jul 2022 03:16:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/path/wp-content/uploads/2022/01/inky-50x50.gif</url>
+	<title>head shots &#8211; Inkrealm</title>
+	<link>/path/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">212591659</site>	<item>
+		<title>And he shall flay the burnt offering, and cut it into his pieces.</title>
+		<link>/path/2022/07/17/and-he-shall-flay-the-burnt-offering-and-cut-it-into-his-pieces/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 17 Jul 2022 03:16:23 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[head shots]]></category>
+		<category><![CDATA[instant karma]]></category>
+		<category><![CDATA[veranda house]]></category>
+		<guid isPermaLink="false">/path/?p=558</guid>
+
+					<description><![CDATA[]]></description>
+		
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">558</post-id>	</item>
+	</channel>
+</rss>

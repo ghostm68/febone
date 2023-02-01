@@ -167,7 +167,12 @@ window.ec.config.enable_canonical_urls = true;</script>
 																			<div class="h-address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 <span class="dashicons dashicons-location"></span>www.wordstar.gq</div>
 																			<div class="h-phone" itemprop="telephone"><a href="tel:+16468019713"><span class="dashicons dashicons-phone"> </span> +16468019713</a></div>
-										
+	// WP_Site_Query arguments
+$args = array(
+);
+
+// The Site Query
+$site_query = new WP_Site_Query( $args );									
 			</div>
 		</div>
 		
